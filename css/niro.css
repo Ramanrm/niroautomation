@@ -1,0 +1,61 @@
+ html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+padding-top: 30px; 
+  
+  margin-bottom: 40px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  background-color:  #2f2f2f;
+}
+.container {
+  width: auto;
+  max-width: 80%;
+  padding: 0 15px;
+}
+.container .text-muted {
+  margin: 2% 0;
+}
+.block{
+    padding: 20px 0px;   
+}
+
+.bg-2 { 
+      background-color: #474e5d; /* Dark Blue */
+      color: #ffffff;
+  }
+
+  .carousel-inner .item img,
+  .carousel-inner .item a img {
+      width: 70%;
+      margin: auto;
+  }
+.niroCarouselStyle img{
+width: auto;
+  height: 425px;
+  max-height: 425px;
+}
+.navbar {
+      margin-bottom: 0;
+      //background-color: #474e5d;
+	background-color: #222;
+    	/* border-color: #080808; */
+      z-index: 9999;
+      border: 0;
+      line-height: 1.42857143 !important;
+      border-radius: 0;
+  }
+#sec2 .caption p{
+	height: 70px;
+}
+
+#sec3 .caption p {
+	height:100px;
+}
+
+
+
